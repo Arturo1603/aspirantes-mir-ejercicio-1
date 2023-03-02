@@ -1,5 +1,5 @@
 <h1 align="center">Ejercicio 1</h1>
-<div style="align="center">
+<div align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png"  width="400px">
 </div>
 <h2>Respuestas</h2>
